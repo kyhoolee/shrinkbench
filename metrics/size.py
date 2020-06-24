@@ -2,7 +2,7 @@
 """
 
 import numpy as np
-from . import nonzero, dtype2bits
+from metrics import nonzero, dtype2bits
 
 
 def model_size(model, as_bits=False):

@@ -1,2 +1,2 @@
-from .magnitude import *
-from .random import *
+from strategies.magnitude import *
+from strategies.random import *

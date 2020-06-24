@@ -8,12 +8,12 @@ from torch.utils.data import DataLoader
 from torch.backends import cudnn
 from tqdm import tqdm
 
-from .base import Experiment
-from .. import datasets
-from .. import models
-from ..metrics import correct
-from ..models.head import mark_classifier
-from ..util import printc, OnlineStats
+from experiment.base import Experiment
+import datasets
+import models
+from metrics import correct
+from models.head import mark_classifier
+from util import printc, OnlineStats
 
 
 class TrainingExperiment(Experiment):

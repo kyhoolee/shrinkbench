@@ -4,9 +4,9 @@ from collections import OrderedDict
 import numpy as np
 import pandas as pd
 
-from .mask import mask_module
-from .modules import MaskedModule
-from .utils import get_params
+from pruning.mask import mask_module
+from pruning.modules import MaskedModule
+from pruning.utils import get_params
 
 
 class Pruning(ABC):

@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-from .modules import masked_modules, _ensure_tensor, _same_device, MaskedModule
+from pruning.modules import masked_modules, _ensure_tensor, _same_device, MaskedModule
 
 
 def mask_module(module, masks):

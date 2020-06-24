@@ -9,11 +9,11 @@ so that overall desired compression is achieved
 
 import numpy as np
 
-from ..pruning import (LayerPruning,
+from pruning import (LayerPruning,
                        VisionPruning,
                        GradientMixin,
                        ActivationMixin)
-from .utils import (fraction_threshold,
+from strategies.utils import (fraction_threshold,
                     fraction_mask,
                     map_importances,
                     flatten_importances,

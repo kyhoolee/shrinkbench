@@ -8,7 +8,7 @@ import torch.nn as nn
 # import torch.nn.functional as F
 import torch.nn.init as init
 
-from . import weights_path
+from models import weights_path
 
 
 class ConvBNReLU(nn.Module):

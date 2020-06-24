@@ -5,8 +5,8 @@ It is intended as a baseline for pruning evalution
 """
 
 import numpy as np
-from ..pruning import VisionPruning
-from .utils import map_importances
+from pruning import VisionPruning
+from strategies.utils import map_importances
 
 
 def random_mask(tensor, fraction):

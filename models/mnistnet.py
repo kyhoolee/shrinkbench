@@ -7,9 +7,9 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-from . import weights_path
+from models import weights_path
 
-
+IS_GPU = False
 class MnistNet(nn.Module):
     """Small network designed for Mnist debugging
     """
@@ -22,7 +22,10 @@ class MnistNet(nn.Module):
         self.fc2.is_classifier = True
         if pretrained:
             weights = weights_path('mnistnet.pt')
-            self.load_state_dict(torch.load(weights))
+            if not IS_GPU:    
+                self.load_state_dict(torch.load(weights, map_location=torch.device('cpu')))
+            else: 
+                self.load_state_dict(torch.load(weights))
 
     def forward(self, x):
         x = F.relu(self.conv1(x))

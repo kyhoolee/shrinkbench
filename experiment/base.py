@@ -13,8 +13,8 @@ import numpy as np
 import torch
 from torch.utils.tensorboard import SummaryWriter
 
-from ..util import CSVLogger
-from ..util import printc
+from util import CSVLogger
+from util import printc
 
 
 class Experiment(ABC):

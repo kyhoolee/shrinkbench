@@ -1,7 +1,7 @@
 import numpy as np
 
-from . import nonzero, dtype2bits
-from ..pruning.utils import get_activations
+from metrics import nonzero, dtype2bits
+from pruning.utils import get_activations
 
 
 def memory_size(model, input, as_bits=False):

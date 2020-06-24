@@ -10,8 +10,8 @@ For a given tensor, compute a
 import numpy as np
 import torch.nn as nn
 
-from ..pruning import *
-from .utils import largest_norm_channel_mask, largest_norm_activation_mask
+from pruning import *
+from strategies.utils import largest_norm_channel_mask, largest_norm_activation_mask
 
 
 # TODO Channel pruning does not propagage zeroing out stuff

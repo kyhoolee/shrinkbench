@@ -1,10 +1,10 @@
 import numpy as np
 from torch import nn
 
-from . import nonzero
-from .abstract_flops import dense_flops, conv2d_flops
-from ..pruning.utils import get_activations
-from ..pruning import Conv2dMasked, LinearMasked
+from metrics import nonzero
+from metrics.abstract_flops import dense_flops, conv2d_flops
+from pruning.utils import get_activations
+from pruning import Conv2dMasked, LinearMasked
 
 
 def _conv2d_flops(module, activation):

@@ -1,10 +1,10 @@
 import json
 
-from .train import TrainingExperiment
+from experiment.train import TrainingExperiment
 
-from .. import strategies
-from ..metrics import model_size, flops
-from ..util import printc
+import strategies
+from metrics import model_size, flops
+from util import printc
 
 
 class PruningExperiment(TrainingExperiment):

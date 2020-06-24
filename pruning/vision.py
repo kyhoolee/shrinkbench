@@ -1,8 +1,8 @@
 import warnings
 import torch.nn as nn
-from .abstract import Pruning
-from .utils import fraction_to_keep
-from .modules import MaskedModule
+from pruning.abstract import Pruning
+from pruning.utils import fraction_to_keep
+from pruning.modules import MaskedModule
 
 
 class VisionPruning(Pruning):

@@ -1,7 +1,7 @@
 """ Module with examples of common pruning patterns
 """
-from .abstract import Pruning
-from .utils import get_activations, get_param_gradients
+from pruning.abstract import Pruning
+from pruning.utils import get_activations, get_param_gradients
 
 
 class ActivationMixin(Pruning):

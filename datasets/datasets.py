@@ -3,7 +3,7 @@ import os
 
 from torchvision import transforms, datasets
 
-from . import places365
+from datasets import places365
 
 _constructors = {
     'MNIST': datasets.MNIST,
@@ -72,6 +72,10 @@ def dataset_builder(dataset, train=True, normalize=None, preproc=None, path=None
         preproc = transforms.Compose(preproc)
 
     kwargs = {'transform': preproc}
+
+    if dataset == 'MNIST':
+        kwargs['download'] = True
+
     if dataset == 'ImageNet':
         kwargs['split'] = 'train' if train else 'val'
     else:

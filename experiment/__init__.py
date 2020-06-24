@@ -1,3 +1,3 @@
-from .base import Experiment
-from .train import TrainingExperiment
-from .prune import PruningExperiment
+from experiment.base import Experiment
+from experiment.train import TrainingExperiment
+from experiment.prune import PruningExperiment
