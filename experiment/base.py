@@ -104,6 +104,9 @@ class Experiment(ABC):
         if path is None:
             self.path = self.get_path()
         printc(f"Logging results to {self.path}", color='MAGENTA')
+        print('Type-path::', type(self.path))
+        if isinstance(self.path, str):
+            self.path = pathlib.Path(self.path) 
         self.path.mkdir(exist_ok=True, parents=True)
         self.save_params()
 

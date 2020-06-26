@@ -73,7 +73,7 @@ def dataset_builder(dataset, train=True, normalize=None, preproc=None, path=None
 
     kwargs = {'transform': preproc}
 
-    if dataset == 'MNIST':
+    if dataset in ['MNIST', 'CIFAR10', 'CIFAR100']:
         kwargs['download'] = True
 
     if dataset == 'ImageNet':

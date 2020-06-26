@@ -9,7 +9,7 @@ import torch.nn.functional as F
 
 from models import weights_path
 
-IS_GPU = False
+IS_GPU = True
 class MnistNet(nn.Module):
     """Small network designed for Mnist debugging
     """

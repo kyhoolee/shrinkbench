@@ -116,7 +116,7 @@ class ResNet(nn.Module):
         out = self.layer1(out)
         out = self.layer2(out)
         out = self.layer3(out)
-        out = F.avg_pool2d(out, out.size()[3])
+        out = nn.AdaptiveAvgPool2d((1, 1))(out) # F.avg_pool2d(out, out.size()[3])
         out = out.view(out.size(0), -1)
         out = self.linear(out)
         return out
@@ -127,7 +127,7 @@ def resnet_factory(filters, num_classes, weight_file):
         model = ResNet(BasicBlock, filters, num_classes=num_classes)
         if pretrained:
             weights = weights_path(weight_file)
-            weights = torch.load(weights)['state_dict']
+            weights = torch.load(weights) #.state_dict() #['state_dict']
             # TODO have a better solution for DataParallel models
             # For models trained with nn.DataParallel
             if list(weights.keys())[0].startswith('module.'):

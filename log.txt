@@ -1,0 +1,948 @@
+[I 11:49:51.379 NotebookApp] Serving notebooks from local directory: /home/hongky/project/model_compress/shrinkbench
+[I 11:49:51.379 NotebookApp] The Jupyter Notebook is running at:
+[I 11:49:51.379 NotebookApp] http://localhost:8888/?token=a1f2f64f0143ed6ff94d3e443f5b66f4a69b615a874c950d
+[I 11:49:51.379 NotebookApp]  or http://127.0.0.1:8888/?token=a1f2f64f0143ed6ff94d3e443f5b66f4a69b615a874c950d
+[I 11:49:51.379 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:49:51.399 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/hongky/.local/share/jupyter/runtime/nbserver-40490-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=a1f2f64f0143ed6ff94d3e443f5b66f4a69b615a874c950d
+     or http://127.0.0.1:8888/?token=a1f2f64f0143ed6ff94d3e443f5b66f4a69b615a874c950d
+Refresh (1 sec) http://localhost:8888/tree?token=
+a1f2f64f0143ed6ff94d3e443f5b66f4a69b615a874c950d
+
+This page should redirect you to Jupyter Notebook. If it doesn't, click here to
+go to Jupyter.
+
+[I 11:51:33.874 NotebookApp] 302 GET /?token=a1f2f64f0143ed6ff94d3e443f5b66f4a69b615a874c950d (::1) 0.78ms
+[W 11:53:04.006 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 11:53:05.453 NotebookApp] Kernel started: 939463ca-386f-40b8-b14d-20e3e2564938
+[I 11:55:06.509 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 11:55:06.509 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 11:57:06.418 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 11:57:06.418 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 11:57:25.983 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 11:57:25.984 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 11:57:32.590 NotebookApp] Kernel interrupted: 939463ca-386f-40b8-b14d-20e3e2564938
+[I 11:57:37.485 NotebookApp] Kernel interrupted: 939463ca-386f-40b8-b14d-20e3e2564938
+[I 11:57:43.453 NotebookApp] Kernel interrupted: 939463ca-386f-40b8-b14d-20e3e2564938
+[I 11:57:47.266 NotebookApp] Kernel interrupted: 939463ca-386f-40b8-b14d-20e3e2564938
+[I 11:57:48.881 NotebookApp] Kernel interrupted: 939463ca-386f-40b8-b14d-20e3e2564938
+[I 11:59:06.408 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 11:59:06.409 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:00:43.404 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:00:43.405 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:01:06.383 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:01:06.384 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:03:06.379 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:03:06.380 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:05:06.555 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:05:06.556 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:07:06.431 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:07:06.432 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:09:06.442 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:09:06.443 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:16:24.150 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:16:24.151 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:16:27.834 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:16:27.835 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:17:06.332 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:17:06.332 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:19:06.351 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:19:06.352 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:21:06.583 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:21:06.583 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:23:06.373 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:23:06.374 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:25:06.453 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:25:06.454 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:27:06.401 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:27:06.402 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:35:06.474 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:35:06.475 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:37:07.854 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:37:07.854 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:38:41.120 NotebookApp] Kernel interrupted: 939463ca-386f-40b8-b14d-20e3e2564938
+[I 12:38:50.202 NotebookApp] Starting buffering for 939463ca-386f-40b8-b14d-20e3e2564938:dc03e9a1443e48b0aed62131aa95c7ae
+[I 12:38:55.203 NotebookApp] Discarding 1035 buffered messages for 939463ca-386f-40b8-b14d-20e3e2564938:dc03e9a1443e48b0aed62131aa95c7ae
+[I 12:38:55.205 NotebookApp] Kernel shutdown: 939463ca-386f-40b8-b14d-20e3e2564938
+[W 12:39:01.995 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:39:04.499 NotebookApp] Kernel started: 515e6ac1-7ffc-456d-89bf-0de1ee8c0b42
+[I 12:41:06.764 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:41:06.765 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:48:25.727 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:48:25.727 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:48:38.563 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:48:38.564 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:49:05.701 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:49:05.702 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:49:06.018 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:49:06.019 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:49:21.058 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:49:21.059 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:51:05.563 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:51:05.564 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:53:05.637 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:53:05.638 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:55:06.550 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:55:06.551 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:57:05.965 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:57:05.970 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 12:59:06.547 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 12:59:06.548 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:03:06.845 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:03:06.847 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:05:06.360 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:05:06.361 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:07:06.344 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:07:06.345 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:09:06.339 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:09:06.341 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:11:06.326 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:11:06.327 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:13:06.326 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:13:06.327 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:15:06.383 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:15:06.385 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:17:06.330 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:17:06.330 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:19:05.536 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:19:05.537 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:21:06.318 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:21:06.319 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:23:05.557 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:23:05.558 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:25:06.317 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:25:06.318 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 13:31:08.222 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 13:31:08.223 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 14:09:40.007 NotebookApp] Creating new notebook in /jupyter
+[I 14:09:48.618 NotebookApp] Kernel started: 0df08bde-6d43-4a07-b7df-49f4c9aa0066
+[I 14:11:42.600 NotebookApp] Saving file at /jupyter/Untitled.ipynb
+[I 14:32:37.476 NotebookApp] Kernel interrupted: 515e6ac1-7ffc-456d-89bf-0de1ee8c0b42
+[I 14:32:46.306 NotebookApp] Kernel shutdown: 515e6ac1-7ffc-456d-89bf-0de1ee8c0b42
+[I 14:33:42.569 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 14:35:42.565 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 14:51:42.866 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:04:04.607 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:04:14.154 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:05:42.608 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:10:42.672 NotebookApp] Saving file at /datasets/datasets.py
+[I 15:12:26.633 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:12:30.225 NotebookApp] Starting buffering for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 15:12:30.858 NotebookApp] Kernel restarted: 0df08bde-6d43-4a07-b7df-49f4c9aa0066
+[I 15:12:32.473 NotebookApp] Restoring connection for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 15:12:32.473 NotebookApp] Replaying 6 buffered messages
+[I 15:12:34.373 NotebookApp] Saving file at /datasets/datasets.py
+THCudaCheck FAIL file=/pytorch/aten/src/THC/generic/THCTensorMath.cu line=26 error=710 : device-side assert triggered
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [0,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [1,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [2,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [4,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [5,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [6,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [7,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [8,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [9,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [11,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [12,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [13,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [14,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [15,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [17,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [18,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [19,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [20,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [21,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [22,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [24,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [25,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [26,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [27,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [28,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [29,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [30,0,0] Assertion `t >= 0 && t < n_classes` failed.
+/pytorch/aten/src/THCUNN/ClassNLLCriterion.cu:106: void cunn_ClassNLLCriterion_updateOutput_kernel(Dtype *, Dtype *, Dtype *, long *, Dtype *, int, int, int, int, long) [with Dtype = float, Acctype = float]: block: [0,0,0], thread: [31,0,0] Assertion `t >= 0 && t < n_classes` failed.
+[I 15:13:42.579 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[W 15:17:53.402 NotebookApp] 404 GET /static/notebook/js/main.min.js.map (::1) 58.46ms referer=None
+[I 15:22:44.394 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:23:42.918 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:25:43.245 NotebookApp] Starting buffering for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 15:25:44.083 NotebookApp] Kernel restarted: 0df08bde-6d43-4a07-b7df-49f4c9aa0066
+[I 15:25:45.528 NotebookApp] Restoring connection for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 15:25:45.528 NotebookApp] Replaying 9 buffered messages
+[I 15:25:51.928 NotebookApp] Starting buffering for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 15:25:52.440 NotebookApp] Kernel restarted: 0df08bde-6d43-4a07-b7df-49f4c9aa0066
+[I 15:25:53.817 NotebookApp] Restoring connection for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 15:25:53.817 NotebookApp] Replaying 3 buffered messages
+[I 15:28:02.304 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:31:22.004 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:33:09.466 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:37:55.921 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 15:42:41.600 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:00:02.010 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:00:40.002 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:09:41.495 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:10:34.025 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:12:25.137 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:12:27.277 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:13:11.935 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:13:35.565 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:14:32.002 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:20:45.301 NotebookApp] Saving file at /models/cifar_resnet.py
+[I 17:20:46.277 NotebookApp] Saving file at /models/cifar_resnet.py
+[I 17:21:19.273 NotebookApp] Saving file at /models/cifar_resnet.py
+[I 17:22:01.026 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:24:11.487 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:29:02.126 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:33:29.415 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:33:52.502 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:34:32.642 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:38:41.865 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:39:04.850 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:39:42.191 NotebookApp] Saving file at /models/cifar_resnet.py
+[I 17:40:03.145 NotebookApp] Starting buffering for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 17:40:04.064 NotebookApp] Kernel restarted: 0df08bde-6d43-4a07-b7df-49f4c9aa0066
+[I 17:40:05.732 NotebookApp] Restoring connection for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 17:40:05.732 NotebookApp] Replaying 3 buffered messages
+[I 17:41:28.274 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:43:31.386 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:48:21.422 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:53:11.418 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 17:58:01.417 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:02:51.424 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:07:41.425 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:12:31.658 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:17:21.394 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:22:11.403 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:46:22.427 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:51:13.059 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:56:02.983 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:57:30.485 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:58:00.892 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 18:58:09.794 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:00:53.137 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:04:11.076 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:05:42.404 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:06:35.868 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:10:33.327 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:20:19.878 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:24:34.747 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:44:21.556 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:44:22.497 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:47:09.999 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:48:10.309 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:48:25.469 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:53:06.759 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:53:20.626 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:53:37.117 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 19:54:02.467 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 20:19:38.355 NotebookApp] Saving file at /models/cifar_resnet.py
+[I 20:20:13.278 NotebookApp] Starting buffering for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 20:20:14.423 NotebookApp] Kernel restarted: 0df08bde-6d43-4a07-b7df-49f4c9aa0066
+[I 20:20:16.102 NotebookApp] Restoring connection for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 20:20:16.102 NotebookApp] Replaying 6 buffered messages
+[I 20:21:10.814 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[W 20:21:35.766 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 20:21:36.522 NotebookApp] Kernel started: 450ab9dc-a439-4adb-bfc8-ed5f9f8429f6
+[I 20:22:27.821 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 20:22:39.818 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 20:23:02.150 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 20:23:38.585 NotebookApp] Saving file at /jupyter/experiment_tutorial.ipynb
+[W 20:23:38.586 NotebookApp] Notebook jupyter/experiment_tutorial.ipynb is not trusted
+[I 20:31:07.499 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 20:32:42.124 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 20:37:32.207 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 20:42:22.628 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:04:36.183 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[W 22:10:37.500 NotebookApp] WebSocket ping timeout after 119750 ms.
+[I 22:10:42.505 NotebookApp] Starting buffering for 450ab9dc-a439-4adb-bfc8-ed5f9f8429f6:4c99ee865bcc4bde89605494d7d4f5e3
+[W 22:10:46.102 NotebookApp] WebSocket ping timeout after 119744 ms.
+[W 22:10:46.118 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.137 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.166 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.169 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.187 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.206 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.222 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.250 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.277 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.277 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.294 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.310 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.328 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.358 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.380 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.383 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.402 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.432 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.454 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.471 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.489 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.489 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.504 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.530 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.555 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.574 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.594 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.594 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.623 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.642 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.662 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.682 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.714 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.714 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.737 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.754 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.775 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.804 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.885 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.886 NotebookApp] zmq message arrived on closed channel
+[W 22:10:46.887 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.596 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.598 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.609 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.643 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.653 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.659 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.665 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.673 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.679 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.685 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.689 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.709 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.709 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.720 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.731 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.741 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.752 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.766 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.770 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.780 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.801 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.813 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.813 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.821 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.836 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.845 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.855 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.864 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.880 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.892 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.902 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.911 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.919 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.919 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.925 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.932 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.950 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.960 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.970 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.981 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.990 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.994 NotebookApp] zmq message arrived on closed channel
+[W 22:10:47.998 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.004 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.016 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.032 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.032 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.037 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.045 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.051 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.055 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.065 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.074 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.085 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.090 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.094 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.101 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.110 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.116 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.122 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.134 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.134 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.142 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.153 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.159 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.165 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.170 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.180 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.185 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.195 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.206 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.217 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.223 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.235 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.236 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.248 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.256 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.264 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.271 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.282 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.291 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.294 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.299 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.307 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.314 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.321 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.444 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.449 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.450 NotebookApp] zmq message arrived on closed channel
+[W 22:10:48.451 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.077 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.079 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.104 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.130 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.143 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.162 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.190 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.191 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.212 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.231 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.257 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.282 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.304 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.305 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.324 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.355 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.415 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.418 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.476 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.489 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.503 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.525 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.557 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.560 NotebookApp] zmq message arrived on closed channel
+[W 22:10:49.561 NotebookApp] zmq message arrived on closed channel
+[I 22:10:49.562 NotebookApp] Starting buffering for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 22:11:16.603 NotebookApp] Kernel restarted: 0df08bde-6d43-4a07-b7df-49f4c9aa0066
+[I 22:11:16.673 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:11:17.933 NotebookApp] Kernel restarted: 0df08bde-6d43-4a07-b7df-49f4c9aa0066
+[I 22:11:17.940 NotebookApp] Restoring connection for 450ab9dc-a439-4adb-bfc8-ed5f9f8429f6:4c99ee865bcc4bde89605494d7d4f5e3
+[I 22:11:18.520 NotebookApp] Restoring connection for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 22:11:18.520 NotebookApp] Replaying 1390 buffered messages
+[I 22:11:21.536 NotebookApp] Starting buffering for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 22:11:21.931 NotebookApp] Restoring connection for 0df08bde-6d43-4a07-b7df-49f4c9aa0066:bbbe062407da4c048632f204c58ec90d
+[I 22:11:30.146 NotebookApp] Kernel shutdown: 450ab9dc-a439-4adb-bfc8-ed5f9f8429f6
+[I 22:11:30.462 NotebookApp] Kernel shutdown: 0df08bde-6d43-4a07-b7df-49f4c9aa0066
+[I 22:11:43.799 NotebookApp] Kernel started: 09aa68a4-7431-42b5-bd3a-3b81945e1ec6
+[I 22:13:45.718 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:15:45.756 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:17:45.989 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:19:45.704 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:21:45.487 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:23:45.709 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:25:48.086 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:27:46.210 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:29:45.595 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:31:45.489 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:33:45.486 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:35:45.632 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:37:45.143 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:39:45.037 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:41:45.077 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:43:45.140 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:45:45.090 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:47:45.025 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:49:45.002 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 22:51:45.219 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 23:45:45.661 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 23:49:45.544 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 23:51:45.496 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:02:07.572 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:02:46.587 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:03:22.322 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:03:40.658 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:05:45.374 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:06:47.634 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:07:23.886 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:07:34.646 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:07:44.417 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:07:45.887 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:07:52.349 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:09:45.229 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:09:47.826 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:13:46.093 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:13:54.654 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:15:48.578 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:17:45.634 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:25:45.606 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:26:11.161 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:26:18.071 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:27:45.912 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:29:13.970 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:29:45.393 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:31:01.393 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:31:48.062 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:33:45.334 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:34:41.615 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:35:51.610 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[W 00:39:14.570 NotebookApp] WebSocket ping timeout after 111129 ms.
+[W 00:39:14.574 NotebookApp] zmq message arrived on closed channel
+[W 00:39:14.581 NotebookApp] zmq message arrived on closed channel
+[W 00:39:14.716 NotebookApp] zmq message arrived on closed channel
+[W 00:39:14.818 NotebookApp] zmq message arrived on closed channel
+[W 00:39:14.823 NotebookApp] zmq message arrived on closed channel
+[W 00:39:14.926 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.008 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.009 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.083 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.154 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.155 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.236 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.307 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.310 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.382 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.456 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.459 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.546 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.628 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.629 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.704 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.798 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.801 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.884 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.975 NotebookApp] zmq message arrived on closed channel
+[W 00:39:15.976 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.080 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.185 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.186 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.270 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.361 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.362 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.448 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.538 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.538 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.621 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.714 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.714 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.808 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.991 NotebookApp] zmq message arrived on closed channel
+[W 00:39:16.991 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.074 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.210 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.210 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.304 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.388 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.390 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.483 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.562 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.563 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.641 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.720 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.721 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.794 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.862 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.863 NotebookApp] zmq message arrived on closed channel
+[W 00:39:17.932 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.013 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.014 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.110 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.204 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.205 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.287 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.371 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.371 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.458 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.552 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.552 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.643 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.730 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.732 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.820 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.906 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.907 NotebookApp] zmq message arrived on closed channel
+[W 00:39:18.994 NotebookApp] zmq message arrived on closed channel
+[W 00:39:19.075 NotebookApp] zmq message arrived on closed channel
+[W 00:39:19.077 NotebookApp] zmq message arrived on closed channel
+[W 00:39:19.250 NotebookApp] zmq message arrived on closed channel
+[W 00:39:19.324 NotebookApp] zmq message arrived on closed channel
+[W 00:39:19.325 NotebookApp] zmq message arrived on closed channel
+[W 00:39:19.432 NotebookApp] zmq message arrived on closed channel
+[W 00:39:19.504 NotebookApp] zmq message arrived on closed channel
+[W 00:39:19.504 NotebookApp] zmq message arrived on closed channel
+[I 00:39:19.572 NotebookApp] Starting buffering for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 00:40:31.290 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 00:40:33.780 NotebookApp] Restoring connection for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 00:40:33.780 NotebookApp] Replaying 1275 buffered messages
+[W 00:45:03.782 NotebookApp] WebSocket ping timeout after 95890 ms.
+[W 00:45:03.855 NotebookApp] zmq message arrived on closed channel
+[W 00:45:03.856 NotebookApp] zmq message arrived on closed channel
+[W 00:45:03.933 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.033 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.035 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.109 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.213 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.214 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.310 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.403 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.404 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.500 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.592 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.593 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.678 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.776 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.777 NotebookApp] zmq message arrived on closed channel
+[W 00:45:04.871 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.000 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.001 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.127 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.202 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.204 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.291 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.392 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.393 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.480 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.567 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.569 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.654 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.733 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.734 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.823 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.907 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.909 NotebookApp] zmq message arrived on closed channel
+[W 00:45:05.993 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.069 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.069 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.172 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.260 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.262 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.345 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.437 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.437 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.532 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.605 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.606 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.679 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.754 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.755 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.833 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.935 NotebookApp] zmq message arrived on closed channel
+[W 00:45:06.938 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.011 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.172 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.174 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.260 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.392 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.393 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.490 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.582 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.582 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.680 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.773 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.775 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.855 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.940 NotebookApp] zmq message arrived on closed channel
+[W 00:45:07.941 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.023 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.114 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.115 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.198 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.284 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.284 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.373 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.473 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.474 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.550 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.621 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.624 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.698 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.776 NotebookApp] zmq message arrived on closed channel
+[W 00:45:08.778 NotebookApp] zmq message arrived on closed channel
+[I 00:45:08.784 NotebookApp] Starting buffering for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 00:48:53.322 NotebookApp] Restoring connection for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 00:48:53.322 NotebookApp] Replaying 3967 buffered messages
+[W 00:48:55.201 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 00:48:56.661 NotebookApp] iopub messages resumed
+[W 00:50:23.323 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 00:50:23.349 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.351 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.420 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.488 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.489 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.581 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.692 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.692 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.795 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.886 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.887 NotebookApp] zmq message arrived on closed channel
+[W 00:50:23.975 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.055 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.058 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.140 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.224 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.224 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.307 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.402 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.402 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.485 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.581 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.581 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.662 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.762 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.763 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.860 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.944 NotebookApp] zmq message arrived on closed channel
+[W 00:50:24.944 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.082 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.208 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.209 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.292 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.375 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.377 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.467 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.550 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.552 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.647 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.755 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.756 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.843 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.926 NotebookApp] zmq message arrived on closed channel
+[W 00:50:25.927 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.030 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.124 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.125 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.221 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.308 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.309 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.389 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.491 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.493 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.575 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.646 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.648 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.735 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.823 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.824 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.914 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.988 NotebookApp] zmq message arrived on closed channel
+[W 00:50:26.989 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.056 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.133 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.135 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.313 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.390 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.399 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.535 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.646 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.646 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.749 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.843 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.844 NotebookApp] zmq message arrived on closed channel
+[W 00:50:27.922 NotebookApp] zmq message arrived on closed channel
+[W 00:50:28.002 NotebookApp] zmq message arrived on closed channel
+[W 00:50:28.002 NotebookApp] zmq message arrived on closed channel
+[W 00:50:28.085 NotebookApp] zmq message arrived on closed channel
+[W 00:50:28.172 NotebookApp] zmq message arrived on closed channel
+[W 00:50:28.174 NotebookApp] zmq message arrived on closed channel
+[W 00:50:28.254 NotebookApp] zmq message arrived on closed channel
+[I 00:50:28.325 NotebookApp] Starting buffering for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 00:53:47.783 NotebookApp] Restoring connection for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 00:53:47.783 NotebookApp] Replaying 3582 buffered messages
+[W 00:53:49.365 NotebookApp] IOPub message rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_msg_rate_limit`.
+    
+    Current values:
+    NotebookApp.iopub_msg_rate_limit=1000.0 (msgs/sec)
+    NotebookApp.rate_limit_window=3.0 (secs)
+    
+[W 00:53:51.153 NotebookApp] iopub messages resumed
+[W 00:55:17.784 NotebookApp] WebSocket ping timeout after 90000 ms.
+[W 00:55:17.817 NotebookApp] zmq message arrived on closed channel
+[W 00:55:17.818 NotebookApp] zmq message arrived on closed channel
+[W 00:55:17.912 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.021 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.022 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.122 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.210 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.211 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.314 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.397 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.398 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.485 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.574 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.574 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.657 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.749 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.750 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.830 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.916 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.920 NotebookApp] zmq message arrived on closed channel
+[W 00:55:18.996 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.084 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.086 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.181 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.268 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.269 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.357 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.540 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.541 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.630 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.734 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.735 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.812 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.913 NotebookApp] zmq message arrived on closed channel
+[W 00:55:19.914 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.008 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.100 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.101 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.182 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.279 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.281 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.360 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.450 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.451 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.538 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.623 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.625 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.721 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.797 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.797 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.883 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.967 NotebookApp] zmq message arrived on closed channel
+[W 00:55:20.967 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.062 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.166 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.167 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.271 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.365 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.371 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.449 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.534 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.535 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.633 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.711 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.712 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.818 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.904 NotebookApp] zmq message arrived on closed channel
+[W 00:55:21.904 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.015 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.102 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.103 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.177 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.264 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.266 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.345 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.430 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.432 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.519 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.598 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.599 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.692 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.779 NotebookApp] zmq message arrived on closed channel
+[W 00:55:22.782 NotebookApp] zmq message arrived on closed channel
+[I 00:55:22.786 NotebookApp] Starting buffering for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 00:57:05.132 NotebookApp] Restoring connection for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 00:57:05.133 NotebookApp] Replaying 1837 buffered messages
+[W 00:58:35.134 NotebookApp] WebSocket ping timeout after 90001 ms.
+[W 00:58:35.138 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.222 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.223 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.309 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.400 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.401 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.483 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.569 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.570 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.653 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.749 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.750 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.827 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.899 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.899 NotebookApp] zmq message arrived on closed channel
+[W 00:58:35.990 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.087 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.088 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.194 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.268 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.269 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.387 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.474 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.475 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.556 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.647 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.648 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.725 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.814 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.815 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.896 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.975 NotebookApp] zmq message arrived on closed channel
+[W 00:58:36.976 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.068 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.166 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.167 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.246 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.349 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.351 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.436 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.513 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.514 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.606 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.705 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.706 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.803 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.878 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.879 NotebookApp] zmq message arrived on closed channel
+[W 00:58:37.954 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.051 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.052 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.154 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.260 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.275 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.425 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.533 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.534 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.618 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.699 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.700 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.774 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.869 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.870 NotebookApp] zmq message arrived on closed channel
+[W 00:58:38.948 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.025 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.025 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.120 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.208 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.208 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.286 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.376 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.377 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.459 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.549 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.550 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.637 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.724 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.724 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.810 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.896 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.897 NotebookApp] zmq message arrived on closed channel
+[W 00:58:39.984 NotebookApp] zmq message arrived on closed channel
+[W 00:58:40.071 NotebookApp] zmq message arrived on closed channel
+[W 00:58:40.071 NotebookApp] zmq message arrived on closed channel
+[I 00:58:40.136 NotebookApp] Starting buffering for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 00:59:27.061 NotebookApp] Restoring connection for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 00:59:27.061 NotebookApp] Replaying 816 buffered messages
+[I 01:03:52.180 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 01:33:02.945 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 01:37:37.415 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 01:37:39.002 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 02:00:52.940 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 02:28:43.197 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 12:13:13.343 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[I 12:14:57.648 NotebookApp] Starting buffering for 09aa68a4-7431-42b5-bd3a-3b81945e1ec6:9a5837facbac42c396575358085a6ca2
+[I 12:14:57.654 NotebookApp] Saving file at /jupyter/cifar100_training.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
